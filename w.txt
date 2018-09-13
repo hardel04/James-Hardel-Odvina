@@ -1,0 +1,8 @@
+<html>
+<style>
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+    border: 2px solid black;
+    padding: 8px;
+}
