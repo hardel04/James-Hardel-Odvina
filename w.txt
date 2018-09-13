@@ -1,8 +1,10 @@
 <html>
 <style>
+body  {
     background-image: url("paper.gif");
     background-color: #cccccc;
 }
+div {
     border: 2px solid black;
     padding: 8px;
 }
